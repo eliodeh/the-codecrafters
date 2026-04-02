@@ -4,7 +4,6 @@ A Go Arrays handles multiple value storage of the kind within a single variable.
 # example of Arrays:
 func main() {
     var arr1 = [2] int {1, 2}
-
     fmt.Println(arr1)
 }
 
