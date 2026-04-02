@@ -1,0 +1,2 @@
+# A detailed summary of Go syntax:
+A Go syntax handles all the files that make a program executeable. The includes package that declares the go ahead of the program, import packages brings in external package to handle a particular functiontype, functions declares and handles function name, parameter in the paretheses in the command line, statements handles arguments of codes before printing the output and where there's a blank space it ignored white spaces and make the code readable
